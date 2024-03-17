@@ -1,0 +1,4 @@
+Que es una funcion de activacion?
+Para que sirve?
+Que finalidad tiene en una red neuronal?
+escribe una lista de las funciones y que tipo de red son utilizadas
